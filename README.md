@@ -66,7 +66,7 @@ Interactive quiz platform with multiple categories, score tracking, and timer-ba
 
 ## 📬 Get In Touch
 
-- 🌐 **Portfolio:** <a href="https://azaan.dev" target="_blank" rel="noopener noreferrer">Portfolio</a>
-- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/muhammed-azaan-95b796213/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-- 📧 **Email:** <a href="mailto:azaanwx@gmail.com?subject=Recruitment" target="_blank" rel="noopener noreferrer">Email</a>
+- 🌐 <a href="https://azaan.dev" target="_blank" rel="noopener noreferrer">Portfolio</a>
+- 💼 <a href="https://www.linkedin.com/in/muhammed-azaan-95b796213/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- 📧 <a href="mailto:azaanwx@gmail.com?subject=Recruitment" target="_blank" rel="noopener noreferrer">Email</a>
 
