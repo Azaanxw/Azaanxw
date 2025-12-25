@@ -11,6 +11,11 @@ Currently seeking junior or graduate full stack roles within UK-based engineerin
 
 ---
 
+
+I'm currently working on **<a href="#" target="_blank" rel="noopener noreferrer">Focustra</a>** - see Featured Projects below for details.
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages:** 
