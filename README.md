@@ -1,8 +1,13 @@
-# Hi, I'm Azaan 👋
+<div align="center">
+  
+### 👋 Hi there, I'm **Azaan**
 
-**First Class BSc Computer Science Graduate** | Full Stack Developer | Based in London, UK
+🎓 **First Class BSc Computer Science Graduate** | 💻 **Full Stack Developer** | 🌍 **London, UK**
 
-I build production-ready web and desktop applications using modern technologies. Currently seeking junior or graduate full stack roles within UK-based engineering teams.
+I build production-ready web and desktop applications using modern technologies.  
+Currently seeking junior or graduate full stack roles within UK-based engineering teams.
+
+</div>
 
 ---
 
@@ -33,7 +38,7 @@ I build production-ready web and desktop applications using modern technologies.
 
 ## 💼 Featured Projects
 
-### [GapifyAI](#)
+### <a href="#" target="_blank" rel="noopener noreferrer">GapifyAI</a>
 AI-driven feature gap analysis tool using NLP to analyze Google Play Store reviews and identify unmet feature demands.
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -41,16 +46,15 @@ AI-driven feature gap analysis tool using NLP to analyze Google Play Store revie
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-FF6B6B?style=flat-square&logo=brain&logoColor=white)
 
-### [Focustra](#)
+### <a href="#" target="_blank" rel="noopener noreferrer">Focustra</a>
 Comprehensive focus tracking platform with desktop app (Electron) and Chrome extension for productivity monitoring.
 
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-### [QuizHub](https://github.com/Azaanxw/QuizHub)
+### <a href="https://github.com/Azaanxw/QuizHub" target="_blank" rel="noopener noreferrer">QuizHub</a>
 Interactive quiz platform with multiple categories, score tracking, and timer-based questions.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -62,16 +66,7 @@ Interactive quiz platform with multiple categories, score tracking, and timer-ba
 
 ## 📬 Get In Touch
 
-- 🌐 **Portfolio:** [azaan.dev](https://azaan.dev)
-- 💼 **LinkedIn:** [Muhammed Azaan](https://www.linkedin.com/in/muhammed-azaan-95b796213/)
-- 📧 **Email:** azaanwx@gmail.com
+- 🌐 **Portfolio:** <a href="https://azaan.dev" target="_blank" rel="noopener noreferrer">Portfolio</a>
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/muhammed-azaan-95b796213/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- 📧 **Email:** <a href="mailto:azaanwx@gmail.com?subject=Recruitment" target="_blank" rel="noopener noreferrer">Email</a>
 
----
-
-<div align="center">
-
-**Open to opportunities in the UK** 🇬🇧
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Azaanxw&theme=default&hide_border=true)
-
-</div>
