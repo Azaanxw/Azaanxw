@@ -33,37 +33,38 @@ I build production-ready web and desktop applications using modern technologies.
 
 ## 💼 Featured Projects
 
-### GapifyAI
+### [GapifyAI](#)
 AI-driven feature gap analysis tool using NLP to analyze Google Play Store reviews and identify unmet feature demands.
 
-**Tech:** React • Next.js • Supabase • NLP
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-FF6B6B?style=flat-square&logo=brain&logoColor=white)
 
-### Focustra
+### [Focustra](#)
 Comprehensive focus tracking platform with desktop app (Electron) and Chrome extension for productivity monitoring.
 
-**Tech:** Electron • Node.js • Express.js • MySQL • WebSockets
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-### QuizHub
+### [QuizHub](https://github.com/Azaanxw/QuizHub)
 Interactive quiz platform with multiple categories, score tracking, and timer-based questions.
 
-**Tech:** JavaScript • HTML5 • CSS3 • REST API
-
----
-
-## 📊 GitHub Stats
-
-![Azaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azaanxw&show_icons=true&theme=default&hide_border=true&bg_color=00000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azaanxw&layout=compact&theme=default&hide_border=true&bg_color=00000000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-FF6B6B?style=flat-square&logo=api&logoColor=white)
 
 ---
 
 ## 📬 Get In Touch
 
-- 🌐 **Portfolio:** [View Portfolio](#) *(add your portfolio URL)*
+- 🌐 **Portfolio:** [azaan.dev](https://azaan.dev)
 - 💼 **LinkedIn:** [Muhammed Azaan](https://www.linkedin.com/in/muhammed-azaan-95b796213/)
 - 📧 **Email:** azaanwx@gmail.com
-- 💻 **GitHub:** [@Azaanxw](https://github.com/Azaanxw)
 
 ---
 
@@ -71,6 +72,6 @@ Interactive quiz platform with multiple categories, score tracking, and timer-ba
 
 **Open to opportunities in the UK** 🇬🇧
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Azaanxw&theme=default&hide_border=true&background=00000000)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Azaanxw&theme=default&hide_border=true)
 
 </div>
