@@ -11,11 +11,6 @@ Currently seeking junior or graduate full stack roles within UK-based engineerin
 
 ---
 
-
-I'm currently working on **<a href="#" target="_blank" rel="noopener noreferrer">Focustra</a>** - see Featured Projects below for details.
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages:** 
@@ -43,7 +38,7 @@ I'm currently working on **<a href="#" target="_blank" rel="noopener noreferrer"
 
 ## 💼 Featured Projects
 
-### <a href="#" target="_blank" rel="noopener noreferrer">GapifyAI</a>
+### <a href="https://gapifyai.com" target="_blank" rel="noopener noreferrer">GapifyAI</a>
 AI-driven feature gap analysis tool using NLP to analyze Google Play Store reviews and identify unmet feature demands.
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -51,7 +46,7 @@ AI-driven feature gap analysis tool using NLP to analyze Google Play Store revie
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-FF6B6B?style=flat-square&logo=brain&logoColor=white)
 
-### <a href="#" target="_blank" rel="noopener noreferrer">Focustra</a>
+### <a href="https://focustra.app" target="_blank" rel="noopener noreferrer">Focustra</a>
 Comprehensive focus tracking platform with desktop app (Electron) and Chrome extension for productivity monitoring.
 
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
@@ -74,4 +69,3 @@ Interactive quiz platform with multiple categories, score tracking, and timer-ba
 - 🌐 <a href="https://azaan.dev" target="_blank" rel="noopener noreferrer">Portfolio</a>
 - 💼 <a href="https://www.linkedin.com/in/muhammed-azaan-95b796213/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 - 📧 <a href="mailto:azaanwx@gmail.com?subject=Recruitment" target="_blank" rel="noopener noreferrer">Email</a>
-
