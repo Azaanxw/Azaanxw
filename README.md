@@ -1,70 +1,77 @@
 <div align="center">
   
-### 👋 Hi there, I'm **Azaan**
+### 👋 Hi, I'm **Muhammed**
 
-🎓 **First Class BSc Computer Science Graduate** | 💻 **Full Stack Developer** | 🌍 **London, UK**
+🎓 **First Class BSc Computer Science Graduate** | 💻 **Full Stack Software Engineer** | 🌍 **London, UK**
 
-I build production-ready web and desktop applications using modern technologies.  
-Currently seeking junior or graduate full stack roles within UK-based engineering teams.
+I am a highly capable full-stack developer who architects, builds, and deploys scalable, production-ready applications. Beyond writing code, I focus on system design, managed services integration, and delivering seamless user experiences while sharing my entrepreneurial journey by building in public.
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-**Languages:** 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+As a First Class Computer Science graduate from Goldsmiths, University of London, I specialize in designing and engineering end-to-end web and desktop applications. I prioritize clean architecture, high-performance APIs, and robust cloud infrastructure. Whether I'm building AI-powered SaaS platforms or local-first productivity tools, I treat every project as a professional-grade engineering endeavor from system design to production deployment.
+
+---
+
+## 🏆 Featured Projects
+
+### <a href="https://www.luminasummarizer.com" target="_blank" rel="noopener noreferrer">Lumina</a>
+*Full-stack AI document intelligence platform.*
+* **Core Architecture:** Engineered a production-ready RAG pipeline using Python (FastAPI), Next.js, and Supabase (pgvector) for page-accurate citations.
+* **Cloud Infrastructure:** Architected a scalable cloud environment using **AWS ECS Fargate** to containerize and orchestrate the backend services.
+* **Storage & Delivery:** Utilized **AWS S3** for secure document storage, integrated with **Amazon CloudFront** for global content delivery and low-latency access.
+* **Automation:** Managed infrastructure-as-code (IaC) via **Terraform** to ensure consistent, reproducible deployments across environments.
+
+### <a href="https://gapifyai.com" target="_blank" rel="noopener noreferrer">GapifyAI</a>
+*AI-powered competitive intelligence SaaS for the Google Play Store.*
+* **Full Stack Integration:** Architected an end-to-end pipeline connecting residential proxy rotation, OpenAI feature extraction, and Stripe payment webhooks.
+* **Performance Optimization:** Designed a server-side in-flight request registry and a two-tier persistent caching system that reduced API costs and eliminated race conditions.
+
+### <a href="https://focustra.app" target="_blank" rel="noopener noreferrer">Focustra</a>
+*Local-first productivity desktop application and MV3 Chrome extension.*
+* **Desktop Engineering:** Built a fault-tolerant focus timer processing thousands of daily events through a WAL-mode SQLite database via an Electron IPC bridge.
+* **Real-time Communication:** Engineered a 100% reliable Chrome-to-Electron WebSocket bridge utilizing Offscreen Documents to coordinate a dual-layer distraction blocking system.
+
+---
+
+## 💻 Tech Stack
+
+**Languages:** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frontend:** 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+**Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
-**Backend:** 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**Tools & Databases:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Backend & Databases:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
----
-
-## 💼 Featured Projects
-
-### <a href="https://gapifyai.com" target="_blank" rel="noopener noreferrer">GapifyAI</a>
-AI-driven feature gap analysis tool using NLP to analyze Google Play Store reviews and identify unmet feature demands.
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-FF6B6B?style=flat-square&logo=brain&logoColor=white)
-
-### <a href="https://focustra.app" target="_blank" rel="noopener noreferrer">Focustra</a>
-Comprehensive focus tracking platform with desktop app (Electron) and Chrome extension for productivity monitoring.
-
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### <a href="https://github.com/Azaanxw/QuizHub" target="_blank" rel="noopener noreferrer">QuizHub</a>
-Interactive quiz platform with multiple categories, score tracking, and timer-based questions.
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6B6B?style=flat-square&logo=api&logoColor=white)
+**Cloud & Infrastructure:**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 ---
 
-## 📬 Get In Touch
+## 🌱 Continuous Learning
+
+I am committed to mastering systems architecture and staying at the forefront of cloud and AI engineering.
+
+* ✅ **Completed:** Google AI Professional Certificate (Coursera)
+* ⏳ **Ongoing:** AWS Cloud Practitioner Essentials
+* ⏳ **Ongoing:** Software Design and Architecture Specialization (University of Alberta)
+
+---
+
+## 📫 Let's Connect
 
 - 🌐 <a href="https://azaan.dev" target="_blank" rel="noopener noreferrer">Portfolio</a>
 - 💼 <a href="https://www.linkedin.com/in/muhammed-azaan-95b796213/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
