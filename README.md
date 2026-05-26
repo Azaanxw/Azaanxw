@@ -15,25 +15,25 @@ I am a highly capable full-stack developer who architects, builds, and deploys s
 As a First Class Computer Science graduate from Goldsmiths, University of London, I specialize in designing and engineering end-to-end web and desktop applications. I prioritize clean architecture, high-performance APIs, and robust cloud infrastructure. Whether I'm building AI-powered SaaS platforms or local-first productivity tools, I treat every project as a professional-grade engineering endeavor from system design to production deployment.
 
 ---
+ ## 🏆 Featured Projects
 
-## 🏆 Featured Projects
-
-### <a href="https://www.luminasummarizer.com" target="_blank" rel="noopener noreferrer">Lumina</a>
+### <img src="https://www.luminasummarizer.com/icon.png" width="20" height="20" style="vertical-align: middle;"> <a href="https://www.luminasummarizer.com" target="_blank" rel="noopener noreferrer">Lumina</a>
 *Full-stack AI document intelligence platform.*
 * **Core Architecture:** Engineered a production-ready RAG pipeline using Python (FastAPI), Next.js, and Supabase (pgvector) for page-accurate citations.
 * **Cloud Infrastructure:** Architected a scalable cloud environment using **AWS ECS Fargate** to containerize and orchestrate the backend services.
 * **Storage & Delivery:** Utilized **AWS S3** for secure document storage, integrated with **Amazon CloudFront** for global content delivery and low-latency access.
 * **Automation:** Managed infrastructure-as-code (IaC) via **Terraform** to ensure consistent, reproducible deployments across environments.
 
-### <a href="https://gapifyai.com" target="_blank" rel="noopener noreferrer">GapifyAI</a>
+### <img src="https://www.google.com/s2/favicons?domain=https://gapifyai.com&sz=64" width="20" height="20" style="vertical-align: middle;"> <a href="https://gapifyai.com" target="_blank" rel="noopener noreferrer">GapifyAI</a>
 *AI-powered competitive intelligence SaaS for the Google Play Store.*
 * **Full Stack Integration:** Architected an end-to-end pipeline connecting residential proxy rotation, OpenAI feature extraction, and Stripe payment webhooks.
 * **Performance Optimization:** Designed a server-side in-flight request registry and a two-tier persistent caching system that reduced API costs and eliminated race conditions.
 
-### <a href="https://focustra.app" target="_blank" rel="noopener noreferrer">Focustra</a>
+### <img src="https://www.google.com/s2/favicons?domain=https://focustra.app&sz=64" width="20" height="20" style="vertical-align: middle;"> <a href="https://focustra.app" target="_blank" rel="noopener noreferrer">Focustra</a>
 *Local-first productivity desktop application and MV3 Chrome extension.*
 * **Desktop Engineering:** Built a fault-tolerant focus timer processing thousands of daily events through a WAL-mode SQLite database via an Electron IPC bridge.
 * **Real-time Communication:** Engineered a 100% reliable Chrome-to-Electron WebSocket bridge utilizing Offscreen Documents to coordinate a dual-layer distraction blocking system.
+
 
 ---
 
@@ -65,7 +65,7 @@ As a First Class Computer Science graduate from Goldsmiths, University of London
 
 I am committed to mastering systems architecture and staying at the forefront of cloud and AI engineering.
 
-* ✅ **Completed:** Google AI Professional Certificate (Coursera)
+* ✅ **Completed:** Google AI Professional Certificate
 * ⏳ **Ongoing:** AWS Cloud Practitioner Essentials
 * ⏳ **Ongoing:** Software Design and Architecture Specialization (University of Alberta)
 
@@ -74,5 +74,5 @@ I am committed to mastering systems architecture and staying at the forefront of
 ## 📫 Let's Connect
 
 - 🌐 <a href="https://azaan.dev" target="_blank" rel="noopener noreferrer">Portfolio</a>
-- 💼 <a href="https://www.linkedin.com/in/muhammed-azaan-95b796213/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- 💼 <a href="https://www.linkedin.com/in/Azaanxw/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 - 📧 <a href="mailto:azaanwx@gmail.com?subject=Recruitment" target="_blank" rel="noopener noreferrer">Email</a>
