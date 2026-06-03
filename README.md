@@ -4,7 +4,7 @@
 
 🎓 **First Class BSc Computer Science Graduate** | 💻 **Full Stack Software Engineer** | 🌍 **London, UK**
 
-I am a highly capable full-stack developer who architects, builds, and deploys scalable, production-ready applications. Beyond writing code, I focus on system design, managed services integration, and delivering seamless user experiences while sharing my entrepreneurial journey by building in public.
+I am a highly capable full-stack developer who architects, builds, and deploys scalable, production-ready applications. Beyond writing code, I focus on system design, managed services integration, and delivering seamless user experiences.
 
 </div>
 
